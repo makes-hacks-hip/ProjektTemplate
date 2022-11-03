@@ -1,9 +1,11 @@
 site_name: <Projekt Name> - Makerspace Repair-Café Hilpoltstein
 site_url: https://makes-hacks-hip.github.io/<Repository Name>/
 nav:
-    - Repair-Café: https://www.repaircafe-hilpoltstein.de
-    - Makerspace: https://makes-hacks-hip.de
-    - Makerspace@Github: https://makes-hacks-hip.github.io
+    - 'Repair-Café & Makerspace':
+        - Repair-Café: https://www.repaircafe-hilpoltstein.de
+        - Makerspace: https://makes-hacks-hip.de
+        - Makerspace@Github: https://makes-hacks-hip.github.io
+    - 'Projekt <Projekt Name>':
 theme: readthedocs
 repo_url: https://makes-hacks-hip.github.io/<Repository Name>/
 edit_uri: edit/main/docs/
