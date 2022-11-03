@@ -7,5 +7,5 @@ nav:
         - Makerspace@Github: https://makes-hacks-hip.github.io
     - 'Projekt <Projekt Name>':
 theme: readthedocs
-repo_url: https://makes-hacks-hip.github.io/<Repository Name>/
+repo_url: https://github.com/makes-hacks-hip/<Repository Name>/
 edit_uri: edit/main/docs/
