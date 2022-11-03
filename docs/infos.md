@@ -1,0 +1,1 @@
+# Informationssammlung zu <Projekt Name>
